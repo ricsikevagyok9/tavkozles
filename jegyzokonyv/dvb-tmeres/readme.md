@@ -22,14 +22,19 @@ Adó távolsága: 773,73m
 Adó frekvencia 586 MHz  
 Sávszélesség 8MHz  
 Moduláció típusa 64-QAM, 8K, 1/4  
-Jelerősség (RSSI) 59.1 dBu  
-MER 31.1 dB  
-Noise Margin 14.0  
-Hiba nélkül vett adás időtartama 200 sec 
+Jelerősség (RSSI) 61.9 dBu  
+MER 32.2 dB  
+Noise Margin 15.5  
+Hiba nélkül vett adás időtartama 199 sec 
 
 
 
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/514a1328-7c78-44cb-b61e-5c840b1fe18c" />
+
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e8e8a145-cf20-47ab-9ac5-d6d3508adb6a" />
+
+
 
 
