@@ -17,7 +17,7 @@ Adó távolsága: 773,73m
 <img width="461" height="587" alt="Képernyőkép mérés" src="https://github.com/user-attachments/assets/a19d2507-a53f-430a-b9d4-e92a40d76303" />  
 
 ## 3. Mérési paraméterek
-Paraméter Érték  
+### Paraméter Érték  
 ---
 Adó frekvencia 586 MHz  
 Sávszélesség 8MHz  
