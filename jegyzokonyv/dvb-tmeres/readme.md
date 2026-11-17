@@ -11,7 +11,7 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 ## 2. Mérési helyszín és környezet
 Koordináták: 48°06’20”N 20°46’48”E  
 Antenna típusa: [SMART HD 550 szobaantenna](https://antenna.arukereso.hu/opticum/smart-hd-550-p247056991/)  
-Antenna magassága: 23 cm  
+Antenna magassága: 1,3m  
 Környezet jellemzői: V3 labor, városi körülmények között  
 Adó távolsága: 773,73m  
 <img width="461" height="587" alt="Képernyőkép mérés" src="https://github.com/user-attachments/assets/a19d2507-a53f-430a-b9d4-e92a40d76303" />  
