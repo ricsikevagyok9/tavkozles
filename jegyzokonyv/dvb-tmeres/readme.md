@@ -1,7 +1,7 @@
 # DVB-T MÉRÉSI JEGYZŐKÖNYV
 Mérés helye: Miskolci SZC Kandó Kálmán Informatikai Technikum  
 Mérés időpontja: 2026.11.11   
-Mérő műszerek: METEK HD - SV:1.17.2002 - SN: 2109010000052  
+Mérő műszerek: METEK HD - SV:1:18:2023 - SN: 211112002390*  
 Felelős személy: Körmöndi Richárd  
 Cél: A DVB-T jel minőségi paramétereinek mérése.  
 
@@ -26,3 +26,10 @@ Jelerősség (RSSI) 59.1 dBu
 MER 31.1 dB  
 Noise Margin 14.0  
 Hiba nélkül vett adás időtartama 200 sec 
+
+
+
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/514a1328-7c78-44cb-b61e-5c840b1fe18c" />
+
+
